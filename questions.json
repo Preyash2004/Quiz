@@ -1,0 +1,83 @@
+[
+    {
+        "question": "Inside which html element do we put the JavaScript?",
+        "choice1":"<script>",
+        "choice2":"<javascript>",
+        "choice3":"<js>",
+        "choice4":"<scripting>",
+        "answer": 1
+    },
+    {
+        "question":"What is the correct synatx for referring to an external script called 'xxx.js'?",
+        "choice1":"<script href = 'xxx.js'>",
+        "choice2":"<script name = 'xxx.js'",
+        "choice3":"<script src = 'xxx.js'",
+        "choice4":"<script file = 'xxx.js'",
+        "answer": 3
+    },
+    {
+        "question":"How do you write 'Hello World!' in an alert box?",
+        "choice1":"msgBox('Hello World!')",
+        "choice2":"alertBox('Hello World!')",
+        "choice3":"msg('Hello World!')",
+        "choice4":"alert('Hello World!')",
+        "answer":4 
+    },
+    {
+        "question":"Which of the following is the correct HTML element for inserting a line break?",
+        "choice1":"<break>",
+        "choice2":"<lb>",
+        "choice3":"<br>",
+        "choice4":"<line>",
+        "answer":3
+    },
+    {
+        "question":"What is the purpose of the alt attribute in an <img> tag?",
+        "choice1":"Specifies the image file format",
+        "choice2":"Adds a caption to the image",
+        "choice3":"Displays text if the image cannot load",
+        "choice4":"Defines the height and width of the image",
+        "answer":3
+    },
+    {
+        "question":"Which of the following properties is used to change the font of text in CSS?",
+        "choice1":"font-weight",
+        "choice2":"font-family",
+        "choice3":"text-style",
+        "choice4":"font-size",
+        "answer":2
+    },
+    {
+        "question":"Which HTML attribute is used to define inline styles",
+        "choice1":"style",
+        "choice2":"font",
+        "choice3":"class",
+        "choice4":"styles",
+        "answer":1
+    },
+    {
+        "question":"How do you create a function in JavaScript?",
+        "choice1":"function myFunction()",
+        "choice2":"function: myFunction()",
+        "choice3":"create myFunction()",
+        "choice4":"new Function myFunction()",
+        "answer":1
+    },
+    {
+        "question":"Which of the following is NOT a JavaScript data type?",
+        "choice1":"Boolean",
+        "choice2":"String",
+        "choice3":"Element",
+        "choice4":"Undefined",
+        "answer":3
+    },
+    {
+        "question":"What is triggered when a user clicks a mouse button?",
+        "choice1":"A property",
+        "choice2":"A function",
+        "choice3":"A click",
+        "choice4":"An event",
+        "answer":4
+    }
+    
+]
