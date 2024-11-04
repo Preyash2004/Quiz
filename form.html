@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HubSpot Form Display</title>
+    <style>
+        /* Styles specific to the form container */
+        .hubspot-form-container {
+            font-family: Arial, sans-serif;
+            margin: 20px auto;
+            text-align: center;
+            max-width: 600px; /* Adjust as needed */
+            padding: 20px;
+            background-color: #FFFFFF; /* Optional: background color for the form */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow */
+            border-radius: 8px; /* Optional: rounded corners */
+        }
+        .hubspot-form-container .form-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #333333; /* Text color */
+        }
+    </style>
+</head>
+<body>
+<!-- Other content of your page -->
+<!-- HubSpot Form Container -->
+<div class="hubspot-form-container">
+    <!-- Form Title -->
+    <div class="form-title">Fill Out the Form Below</div>
+    <!-- HubSpot Form Embed Code -->
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: "47977148",
+    formId: "76ad49b8-7d17-4c38-a059-f3cfa73d87d1"
+  });
+</script>
+</div>
+<!-- Other content of your page -->
+</body>
+</html>
