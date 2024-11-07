@@ -1,2 +1,2 @@
 Quiz App
-https://preyash2004.github.io/Quiz.io/
+https://preyash2004.github.io/Quiz/
